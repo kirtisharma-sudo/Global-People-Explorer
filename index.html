@@ -1,0 +1,176 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Random User Explorer</title>
+
+    <link rel="stylesheet" href="style.css">
+
+    <!-- Google Font -->
+    <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700&display=swap" rel="stylesheet">
+
+    <!-- Font Awesome -->
+    <link rel="stylesheet"
+    href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.6.0/css/all.min.css">
+
+</head>
+
+<body>
+
+<div class="background"></div>
+
+<header>
+
+    <h1>
+        🌍 Random User Explorer
+    </h1>
+
+    <p>
+        Generate beautiful user profiles using the RandomUser API
+    </p>
+
+</header>
+
+<section class="controls">
+
+<button id="generateBtn" onclick="generateUser()">
+
+<i class="fa-solid fa-user-plus"></i>
+
+Generate User
+
+</button>
+
+</section>
+
+<section class="card">
+
+<div id="loader" class="loader hidden"></div>
+
+<div id="user">
+
+<img id="profilePic"
+src="https://via.placeholder.com/180"
+alt="Profile">
+
+<h2 id="name">
+Random User
+</h2>
+
+<p class="subtitle">
+Click the button to generate a profile.
+</p>
+
+<div class="details">
+
+<div class="detail">
+
+<i class="fa-solid fa-envelope"></i>
+
+<span id="email">
+example@email.com
+</span>
+
+</div>
+
+<div class="detail">
+
+<i class="fa-solid fa-phone"></i>
+
+<span id="phone">
++00 000000000
+</span>
+
+</div>
+
+<div class="detail">
+
+<i class="fa-solid fa-location-dot"></i>
+
+<span id="location">
+Unknown
+</span>
+
+</div>
+
+<div class="detail">
+
+<i class="fa-solid fa-cake-candles"></i>
+
+<span id="age">
+Age
+</span>
+
+</div>
+
+<div class="detail">
+
+<i class="fa-solid fa-venus-mars"></i>
+
+<span id="gender">
+Gender
+</span>
+
+</div>
+
+</div>
+
+</div>
+
+</section>
+
+<section class="stats">
+
+<div class="stat">
+
+<h2 id="count">
+0
+</h2>
+
+<p>
+Profiles Generated
+</p>
+
+</div>
+
+<div class="stat">
+
+<h2>
+195+
+</h2>
+
+<p>
+Countries
+</p>
+
+</div>
+
+<div class="stat">
+
+<h2>
+100%
+</h2>
+
+<p>
+Random
+</p>
+
+</div>
+
+</section>
+
+<footer>
+
+<p>
+
+Made using HTML, CSS, JavaScript & RandomUser API
+
+</p>
+
+</footer>
+
+<script src="script.js"></script>
+
+</body>
+</html>
