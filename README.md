@@ -12,7 +12,7 @@
 
 ---
 
-## 📖 About
+## About
 
 **Random User Explorer** is a modern frontend web application that generates realistic user profiles using the **RandomUser API**.
 
@@ -116,6 +116,7 @@ This project demonstrates:
 
 ## Preview
 
+<img width="1277" height="760" alt="image" src="https://github.com/user-attachments/assets/5eb7012d-caf1-4dc5-a200-76fd4b9a2269" />
 
 ---
 
