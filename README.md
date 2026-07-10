@@ -114,11 +114,6 @@ This project demonstrates:
 
 ---
 
-## Preview
-
-<img width="1122" height="760" alt="image" src="https://github.com/user-attachments/assets/e4fa6663-b06a-4648-957e-d9fc6fb2173c" />
-
-
 ## Future Enhancements
 
 - Save favorite profiles
