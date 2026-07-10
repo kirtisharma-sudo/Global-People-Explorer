@@ -116,9 +116,8 @@ This project demonstrates:
 
 ## Preview
 
-<img width="1920" height="1020" alt="image" src="https://github.com/user-attachments/assets/18509a63-e419-4151-9d30-53bffc06deb0" />
+<img width="1122" height="760" alt="image" src="https://github.com/user-attachments/assets/e4fa6663-b06a-4648-957e-d9fc6fb2173c" />
 
----
 
 ## Future Enhancements
 
