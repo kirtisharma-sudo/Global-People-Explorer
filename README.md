@@ -116,8 +116,7 @@ This project demonstrates:
 
 ## Preview
 
-![Uploading image.png…]()
-
+<img width="1920" height="1020" alt="image" src="https://github.com/user-attachments/assets/18509a63-e419-4151-9d30-53bffc06deb0" />
 
 ---
 
